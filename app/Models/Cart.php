@@ -11,7 +11,6 @@ class Carts extends Model
 
     public $fillable = [
         'qty',
-        'total_price',
         'product_id'
     ];
 
